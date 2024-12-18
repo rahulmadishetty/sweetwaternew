@@ -1,0 +1,43 @@
+# Dependencies
+/node_modules
+
+# Environment Variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.pem
+
+# Coverage Reports
+/coverage
+
+# Build Output (if applicable)
+/dist
+
+# Debugging
+.vscode
+.idea
+
+# Local Development
+local
+
+# Database and Cache
+*.db
+*.sqlite
+
+# Temporary Files
+*.log
+.tmp
+*.bak
+
+# Optional Editor Files
+*.swp
+*.swo

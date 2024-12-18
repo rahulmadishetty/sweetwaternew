@@ -1,0 +1,73 @@
+{
+  "company": {
+    "name": "Sweetwater Student Opportunities",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Events",
+      "href": "events"
+    },
+    {
+      "name": "Gallery",
+      "href": "gallery"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "mainHero": {
+    "title": "Sweetwater",
+    "subtitle": "Fort Wayne",
+    "description": "Welcome to Sweetwater Fort Wayne! Discover an exciting lineup of events designed to inspire and engage students of all ages. From hands-on music workshops and performances to career-focused seminars, our programs offer a unique blend of education and entertainment. Whether you're exploring the latest in music technology or meeting industry professionals, Sweetwater is your gateway to creativity and innovation. Join us and experience a world of opportunities in the heart of Fort Wayne!",
+    "img": "/assets/images/sweetwater.jpg"
+  },
+  "product": {
+    "title": "Events",
+    "items": [
+      {
+        "title": "Sound Explorers: Hands-On Music Technology Workshop",
+        "description": "Dive into the world of music production and technology in this interactive workshop. Students will learn the basics of recording, mixing, and editing sound using industry-standard equipment. No prior experience is required—just bring your creativity and curiosity!",
+        "img": "/assets/images/Event.jpg",
+        "location": "Sweetwater Sound Headquarters, Fort Wayne, IN",
+        "date": "July 10, 2024",
+        "time": "1:00 PM - 4:00 PM"
+      },
+      {
+        "title": "Careers in Music: Pathways to Success",
+        "description": "This seminar connects students with industry professionals to explore the diverse career opportunities in music. From production and performance to business and tech, attendees will gain valuable insights and practical advice to kickstart their journey in the music industry.",
+        "img": "/assets/images/Event2.png",
+        "location": "Sweetwater Sound Headquarters, Fort Wayne, IN",
+        "date": "August 12, 2024",
+        "time": "10:00 AM - 12:00 PM"
+      },
+      {
+        "title": "Sweetwater GuitarFest",
+        "description": "The largest music gear event of the year, featuring guitar demos, workshops, and live performances.",
+        "img": "/assets/images/Event3.jpg",
+        "location": "Sweetwater Sound Headquarters, Fort Wayne, IN",
+        "date": "July 15, 2024",
+        "time": "10:00 AM - 6:00 PM"
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Events"
+      },
+      {
+        "name": "Gallery"
+      },
+      {
+        "name": "About"
+      }
+    ],
+    "socialMedia": {
+      "website": "https://www.sweetwater.com/",
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  }
+}
